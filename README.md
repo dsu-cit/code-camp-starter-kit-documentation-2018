@@ -26,6 +26,6 @@ to run and change the game. [Instructions found here.](http://cit.dixie.edu/cs/1
 
 There are several tutorials to help you with your game and we will publish more as needed during Code Camp.
 
-[Rookie Kit Tutorials](tutorials/)
+[Starter Kit Tutorials](tutorials/)
 
 
