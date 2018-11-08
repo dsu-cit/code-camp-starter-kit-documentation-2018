@@ -1,52 +1,38 @@
-FIXME
+Southern Utah Code Camp 2018 Starter Kit
+===============================================
 
-# Tutorials
+**Getting Started**
 
-*	[The Game](other/the_game.md)
-*	[Getting Started](other/getting_started.md)
+Check out the [getting started](other/getting_started.md) document for running the game and getting started.
 
-## Documentation
+**Description**
 
-*	[config.py](other/client_pygame/config.md)
-*	[control/control.py](other/client_pygame/control.md)
-*	[display/display.py](other/client_pygame/display.md)
-*	[tps/common/object.py](other/common/object.md)
-*	[tps/common/player.py](other/common/player.md)
-*	[tps/common/missile.py](other/common/missile.md)
-*	[tps/common/event.py](other/common/event.md)
-*	[tps/common/npc.py](other/common/npc.md)
-*	[tps/common/wall.py](other/common/wall.md)
-*	[tps/engine&#95;client/game&#95;engine.py](other/engine_client/game_engine.md)
-*	[tps/engine_server/config.py](other/engine_server/config.md)
+We have [a few ideas](other/the_game.md) you may want to consider when deciding what 
+features to make in your game.  However, the game design is all yours!  We can't tell you what
+makes a game good or bad.  That's up to you.  
+We can help you with some technical details.  Here are 
+a few tutorials that may help you get started with making changes.
 
-
-## Controls
-
-*	[Moving with WASD](controls/moving_with_wasd.md)
-* 	[Steering with the Mouse](controls/mouse_steering.md)
+*   [Game Sounds](add_sound.md)
+*   [Game Music](add_music.md)
+*   [Game Score](add_baddie_score.md)
+*   [Baddie Hit Points](add_baddie_hit_points.md)
+*   [Scrolling Background](add_scrolling_background.md)
+*   [Bullet Spread](add_spread_bullets.md)
 
 
-## Display
+**Download**
 
-### Sounds
+*   [Starter Kit](../thumbdrive-contents/starter-kit-2018.zip?raw=true)
 
-*	[Adding Background Music](display/sounds/adding_background_music.md)
-*	[Adding Sound Effects](display/sounds/adding_sound_effects.md)
-*	[Handling Several Sound Effects](display/sounds/handling_several_sounds.md)
+**Setup**
 
+You'll need Python and PyGame installed on your system
+to run and change the game. [Instructions found here.](http://cit.dixie.edu/cs/1410/pygame-installation.php)
 
-### Images
+**Test your system to verify python and pygame work.**
+	
+*	Download and run [pygame_check.py](../thumbdrive-contents/pygame_check.py)
+*	If you see the following window with Code Camp messages, your system is working ![PyGame Check](../assets/images/pygame_check.png)
 
-*	[Loading an image for an object](display/images/loading_an_image.md)
-*	[Resizing an image](display/images/resizing_an_image.md)
-*	[Rotating an image](display/images/rotating_an_image.md)
-*	[Handling Several Image Instances](display/images/handling_several_images.md)
-
-### Event Handling
-
-*	[Play sound when missile fires](display/events/missile_fire_event_sound.md)
-
-### Other
-
-*	[Range detection](display/range_detection.md)
 

@@ -29,8 +29,3 @@ There are several tutorials to help you with your game and we will publish more 
 [Rookie Kit Tutorials](tutorials/)
 
 
-## Discussions
-
-If you have questions, chances are someone else has the same question. Feel free to ask questions on the following discussion board and feel free to answer other questions. Remember to be considerate of others and don't post anything inappropriate or you will be banned, and possibly asked to leave Code Camp.
-
-[Google Group Discussion Forum](https://groups.google.com/forum/#!forum/code-camp-rookie-kit)
