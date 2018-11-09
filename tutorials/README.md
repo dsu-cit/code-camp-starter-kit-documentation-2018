@@ -13,6 +13,7 @@ makes a game good or bad.  That's up to you.
 We can help you with some technical details.  Here are 
 a few tutorials that may help you get started with making changes.
 
+*   [Images](add_images.md)
 *   [Game Sounds](add_sound.md)
 *   [Game Music](add_music.md)
 *   [Game Score](add_baddie_score.md)
