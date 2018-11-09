@@ -20,6 +20,7 @@ a few tutorials that may help you get started with making changes.
 *   [Baddie Hit Points](add_baddie_hit_points.md)
 *   [Scrolling Background](add_scrolling_background.md)
 *   [Bullet Spread](add_spread_bullets.md)
+*   [Baddie Hits Spaceship](add_baddie_spaceship_collision.md)
 
 
 **Download**
