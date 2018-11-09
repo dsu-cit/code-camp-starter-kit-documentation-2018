@@ -7,8 +7,8 @@ First, navigate to your `bullet.py` file and find your `moveBullet` method.  We 
         def moveBullet( self ):
             if self.direction == 'up':
                 self.y -= self.speed
-    	    if self.direction == 'down':
-    		    self.y += self.speed
+            if self.direction == 'down':
+                self.y += self.speed
             self.x += self.speed        #always move it along the x-axis
             return
 
