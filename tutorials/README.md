@@ -21,6 +21,7 @@ a few tutorials that may help you get started with making changes.
 *   [Scrolling Background](add_scrolling_background.md)
 *   [Bullet Spread](add_spread_bullets.md)
 *   [Baddie Hits Spaceship](add_baddie_spaceship_collision.md)
+*   [New Game](new_game.md)
 
 
 **Download**
